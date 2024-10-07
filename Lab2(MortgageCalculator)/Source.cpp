@@ -1,3 +1,6 @@
+
+// (Mortgage Calculator) Develop a C program to calculate the interest
+// accrued on a bank customer’s mortgage
 #include <stdio.h>
 #include <math.h>
 
