@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8b2da7af-ca48-42b4-b21b-95e25f13a8b8}</ProjectGuid>
-    <RootNamespace>LabOpgaverUgePlan40</RootNamespace>
+    <ProjectGuid>{1630c344-e211-4fc4-a6da-db7096fa8e37}</ProjectGuid>
+    <RootNamespace>Lab1a</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Lab1 (b)</ProjectName>
+    <ProjectName>Lab2(a)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
